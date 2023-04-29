@@ -1,0 +1,9 @@
+name: base
+dependencies:
+  - python>3
+  - numpy
+  - pandas
+  - matplotlib
+  - nltk
+  - sklearn
+  - random
